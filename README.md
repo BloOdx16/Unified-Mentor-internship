@@ -1,0 +1,1 @@
+This repository contains 3 projects . Two are python file and the third one is a power bi file.These are the projects that i choose for Data Analytics Internship (2 months) provided by Unified Mentor.
